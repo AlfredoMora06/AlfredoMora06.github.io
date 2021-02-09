@@ -81,7 +81,7 @@ a img, .card-img-top{
 }
 
 
-.col-sm-12 img, .col-sm-12 .card {
+.col-sm-12 img{
     max-width: 90%;
 }
 
