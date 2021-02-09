@@ -81,6 +81,9 @@ a img, .card-img-top{
     margin-left: 144px;
 }
 
+.card-link-single{
+    margin-left: 180px;
+}
 
 .fade-in {
 	-webkit-animation: fade-in 2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
