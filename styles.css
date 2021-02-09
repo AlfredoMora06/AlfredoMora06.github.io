@@ -14,7 +14,7 @@ a{
     transition: 0.3s;
 }
 
-.fa-github:hover {
+.fa-github:hover, .fa-linkedin:hover, .fa-instagram:hover{
     opacity: 0.6;
 }
 
@@ -23,9 +23,11 @@ a{
     transition: 0.3s;
 }
 
-.fa-linkedin:hover{
-    opacity: 0.6;
+.fa-instagram{
+    opacity: 1.0;
+    transition: 0.3s;
 }
+
 
 .title{
     text-align: center;
