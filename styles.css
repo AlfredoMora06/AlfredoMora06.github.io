@@ -1,6 +1,6 @@
 a:link{
     text-decoration: none;
-    margin-left: 1em;
+    /*margin-left: 1em;*/
 }
 
 a{
@@ -30,18 +30,19 @@ a{
 
 .title{
     text-align: center;
-    margin: 0 auto;
     font-family: "DIN Next",sans-serif;
     font-weight: 900;
     font-style: normal;
     letter-spacing: 0.2em;
+    
 }
 
+
 .text{
-    max-width: 500px;
-    margin: auto;
+    /*max-width: 500px;*/
+    /*margin: auto;*/
     text-align: justify;
-    padding-top: 40px;
+    /*padding-top: 40px;*/
     font-family: "FF Meta Serif",serif;
     color: #000;
     font-weight: 300;
@@ -57,14 +58,10 @@ a{
     color: #d02120;
     font-style: normal;
     padding: 0;
-    margin: 50px 0;
+    /*margin: 50px 0;*/
 }
 
 
-a img, .card-img-top{
-    width: 100%;
-    object-fit: cover;
-}
 
 .card{
     border: none;
@@ -77,13 +74,6 @@ a img, .card-img-top{
     text-align: center;
 }
 
-.card-link{
-    margin-left: 144px;
-}
-
-.card-link-single{
-    margin-left: 180px;
-}
 
 .fade-in {
 	-webkit-animation: fade-in 2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
