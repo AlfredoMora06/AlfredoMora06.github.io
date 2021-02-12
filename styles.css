@@ -39,10 +39,7 @@ a{
 
 
 .text{
-    /*max-width: 500px;*/
-    /*margin: auto;*/
     text-align: justify;
-    /*padding-top: 40px;*/
     font-family: "FF Meta Serif",serif;
     color: #000;
     font-weight: 300;
@@ -72,6 +69,10 @@ a{
 
 .card-title{
     text-align: center;
+}
+
+.card-text{
+    text-align: justify;
 }
 
 
