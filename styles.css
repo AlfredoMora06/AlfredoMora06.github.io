@@ -1,3 +1,12 @@
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
 a:link{
     text-decoration: none;
     /*margin-left: 1em;*/
@@ -34,6 +43,7 @@ a{
     font-weight: 900;
     font-style: normal;
     letter-spacing: 0.2em;
+    color: white;
     
 }
 
@@ -41,7 +51,7 @@ a{
 .text{
     text-align: justify;
     font-family: "FF Meta Serif",serif;
-    color: #000;
+    color:  white;
     font-weight: 300;
     font-size: 1.125rem;
 }
@@ -103,3 +113,5 @@ a{
       opacity: 1;
     }
   }
+
+
